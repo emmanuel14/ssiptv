@@ -359,5 +359,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202880.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RATUKEN TV SHOWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbBydwr0dIu8gSgWV-vRqM7F40uKp9hGft_I4yDJ4jfGjlDbt0Q3u5bAnjWrekpqfR0I&usqp=CAU" group-title="CINE PREMIUM",RATUKEN TV SHOWS
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202882.m3u8
-#EXTINF:-1 tvg-id="1145" tvg-name="KZO TV" tvg-logo="https://i2.paste.pics/9153223d0dd3ffe0820da51c41edded7.png", KZO TV | AR
+#EXTINF:-1 tvg-id="KZO" tvg-name="KZO TV" tvg-logo="https://i2.paste.pics/9153223d0dd3ffe0820da51c41edded7.png" group-title="ARGENTINA", KZO TV | AR
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="URBPLAYFM" tvg-name="Urbana play FM" tvg-logo=https://urbanaplayfm.com/file/2022/05/logo.png group-title="ARGENTINA",ARG: Urbana play FM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654533765/ei/JNqdYo-oMtDTwASQlYLIAg/ip/181.46.68.173/id/nJS1oYWD1ms.1/source/yt_live_broadcast/requiressl/yes/tx/24027707/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC_xfTNLLGukTz_bMnJYPzlIg08tIt_AsgmemIOuk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKR8qhYcjs_Oc1iCgwrsOkPMcRMueecLHakH2XHBRKQMAiEA5av56MtF_KjABZnmELhSHJkpT4ouvmjCXd2qXqwtPGo%3D/file/index.m3u8
