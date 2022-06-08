@@ -26,6 +26,14 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/170211.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169917.m3u8
 #EXTINF:-1 tvg-id="ESPNAMC" tvg-name="ESPN EXTRA HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s65930_ll_h3_ad.png" group-title="DEPORTES LAT",ESPN EXTRA HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169918.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183613.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183614.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183616.m3u8
 
 #EXTINF:-1 tvg-id="FSALPHD" tvg-name="FOX SPORTS NORTE HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s61704_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS NORTE HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169920.m3u8
