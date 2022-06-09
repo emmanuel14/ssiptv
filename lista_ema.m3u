@@ -1,5 +1,39 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+#EXTINF:-1 tvg-id="TRESAT" tvg-name="ARG: El trece HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" group-title="ARGENTINA",ARG: El trece HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
+#EXTINF:-1 tvg-id="TRESAT" tvg-name="ARG: El trece HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" group-title="ARGENTINA",ARG: El trece HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165584.m3u8
+#EXTINF:-1 tvg-id="TREINTA" tvg-name="ARG: EL TRECE INTERNACIONAL (E)" tvg-logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" group-title="ARGENTINA",ARG: EL TRECE INTERNACIONAL (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
+#EXTINF:-1 tvg-id="TELEFA" tvg-name="ARG: TELEFE" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165581.m3u8
+#EXTINF:-1 tvg-id="TELEFA" tvg-name="ARG: TELEFE HD" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165583.m3u8
+#EXTINF:-1 tvg-id="TELEFA" tvg-name="ARG: TELEFE HD" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165582.m3u8
+#EXTINF:-1 tvg-id="TVPUHD" tvg-name="ARG: Television Publica HD" tvg-logo="http://fanc.tmsimg.com/assets/s16525_ll_h3_ab.png" group-title="ARGENTINA",ARG: Television Publica HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165588.m3u8
+#EXTINF:-1 tvg-id="TVPUAM" tvg-name="ARG: Television Publica HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16525_ll_h3_ab.png" group-title="ARGENTINA",ARG: Television Publica HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165587.m3u8
+#EXTINF:-1 tvg-id="TODONHD" tvg-name="ARG: TN NOTICIAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s79899_ll_h3_aa.png" group-title="ARGENTINA",ARG: TN NOTICIAS HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165590.m3u8
+#EXTINF:-1 tvg-id="TODONHD" tvg-name="ARG: TN Noticias FHD" tvg-logo="http://fanc.tmsimg.com/assets/s79899_ll_h3_aa.png" group-title="ARGENTINA",ARG: TN Noticias FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165591.m3u8
+#EXTINF:-1 tvg-id="C5NARGH" tvg-name="ARG: C5N HD" tvg-logo="http://fanc.tmsimg.com/assets/s77601_ll_h3_aa.png" group-title="ARGENTINA",ARG: C5N HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165595.m3u8
+#EXTINF:-1 tvg-id="C5NARGH" tvg-name="ARG: C5N FHD" tvg-logo="http://fanc.tmsimg.com/assets/s77601_ll_h3_aa.png" group-title="ARGENTINA",ARG: C5N FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165596.m3u8
+#EXTINF:-1 tvg-id="CRONHD" tvg-name="ARG: CRONICA HD" tvg-logo="http://fanc.tmsimg.com/assets/s106730_ll_h3_ac.png" group-title="ARGENTINA",ARG: CRONICA HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165594.m3u8
+#EXTINF:-1 tvg-id="CAN26HD" tvg-name="ARG: CANAL 26" tvg-logo="http://fanc.tmsimg.com/assets/s103103_ll_h3_aa.png" group-title="ARGENTINA",ARG: CANAL 26
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165597.m3u8
+#EXTINF:-1 tvg-id="NACIONP" tvg-name="ARG: LN+" tvg-logo="http://fanc.tmsimg.com/assets/s101238_ll_h3_aa.png" group-title="ARGENTINA",ARG: LN+
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal IP HD  (informacion periodistica)" tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" group-title="ARGENTINA",ARG: Canal IP HD  (informacion periodistica)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165599.m3u8
+
 #EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
 #EXTINF:-1 tvg-id="ESPNLHD" tvg-name="ESPN HD (ARG)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN HD (ARG)
