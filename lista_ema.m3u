@@ -27,6 +27,11 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Canal IP HD  (informacion periodistica)" tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" group-title="ARGENTINA",ARG: Canal IP HD  (informacion periodistica)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165599.m3u8
 
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="ARG: TNT SPORTS FHD.." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD..
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165665.m3u8
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165664.m3u8
+
 #EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
 #EXTINF:-1 tvg-id="ESPNLHD" tvg-name="ESPN HD (ARG)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN HD (ARG)
@@ -59,15 +64,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183614.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
 #EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD.
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183616.m3u8
-
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="ARG: TNT SPORTS SD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS SD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/170124.m3u8
-#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS HD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="ARG: TNT SPORTS FHD.." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD..
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165665.m3u8
-#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165664.m3u8
 
 #EXTINF:-1 tvg-id="TYCHD" tvg-name="ARG: TYC SPORTS LOCAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS LOCAL HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165660.m3u8
