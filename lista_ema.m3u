@@ -5,6 +5,13 @@
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165664.m3u8
 #EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
+#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS AR(D)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS AR(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR (D)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 AR (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
+#EXTINF:-1 tvg-id="SPOPLH" tvg-name="DIRECTV SPORTS PLUS AR(D)" tvg-logo="http://fanc.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS PLUS AR(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169945.m3u8
+
 
 #EXTINF:-1 tvg-id="TRESAT" tvg-name="ARG: El trece HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" group-title="ARGENTINA",ARG: El trece HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
@@ -12,6 +19,20 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
 #EXTINF:-1 tvg-id="TELEFA" tvg-name="ARG: TELEFE" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165581.m3u8
+
+#EXTINF:-1 tvg-id="CANL9HD" tvg-name="ARG: El Nueve HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16882_ll_h3_aa.png" group-title="ARGENTINA",ARG: El Nueve HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165579.m3u8
+#EXTINF:-1 tvg-id="CANL9HD" tvg-name="ARG: El Nueve HD" tvg-logo="http://fanc.tmsimg.com/assets/s16882_ll_h3_aa.png" group-title="ARGENTINA",ARG: El Nueve HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165578.m3u8
+#EXTINF:-1 tvg-id="CANL9HD" tvg-name="ARG: El Nueve FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16882_ll_h3_aa.png" group-title="ARGENTINA",ARG: El Nueve FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165580.m3u8
+
+#EXTINF:-1 tvg-id="AMETVHD" tvg-name="ARG: America TV SD" tvg-logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" group-title="ARGENTINA",ARG: America TV SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165575.m3u8
+#EXTINF:-1 tvg-id="AMETVHD" tvg-name="ARG: America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" group-title="ARGENTINA",ARG: America TV HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165576.m3u8
+#EXTINF:-1 tvg-id="AMETVHD" tvg-name="ARG: America TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" group-title="ARGENTINA",ARG: America TV FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
 
 #EXTINF:-1 tvg-id="TVPUHD" tvg-name="ARG: Television Publica HD" tvg-logo="http://fanc.tmsimg.com/assets/s16525_ll_h3_ab.png" group-title="ARGENTINA",ARG: Television Publica HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165588.m3u8
@@ -97,10 +118,19 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
 
 #EXTINF:-1 tvg-id="DAEHD" tvg-name="A&E HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173378.m3u8
-#EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E SD DUAL A.
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173379.m3u8
 #EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173380.m3u8
+#EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E SD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173379.m3u8
+
+#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173400.m3u8
+#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173401.m3u8
+#EXTINF:-1 tvg-id="CCANAL" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173403.m3u8
+#EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173402.m3u8
 
 #EXTINF:-1 tvg-id="A3CI" tvg-name="A3CINE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE Y SERIES",A3CINE FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173391.m3u8
@@ -128,14 +158,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173395.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173397.m3u8
 #EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES",Cine Latino MX(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173399.m3u8
-#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal SD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173400.m3u8
-#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal HD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173401.m3u8
-#EXTINF:-1 tvg-id="CCANAL" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173403.m3u8
-#EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173402.m3u8
+
 #EXTINF:-1 tvg-id="CINNAA" tvg-name="CINEMA DINAMITA  HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s82420_ll_h3_aa.png" group-title="CINE Y SERIES",CINEMA DINAMITA  HD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Scy-Fy" tvg-logo="https://previews.123rf.com/images/pandavector/pandavector1701/pandavector170104625/70291076-icono-de-letrero-de-cine-en-estilo-de-dibujos-animados-aislado-sobre-fondo-blanco-pel%C3%ADculas-y-cine-s.jpg" group-title="CINE PREMIUM",Cinema Scy-Fy
