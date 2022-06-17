@@ -125,19 +125,14 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173379.m3u8
 
 #EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal SD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173400.m3u8
-#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal HD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173401.m3u8
 #EXTINF:-1 tvg-id="CCANAL" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173403.m3u8
+#EXTINF:-1 tvg-id="CINCAC2" tvg-name="Cinecanal HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173401.m3u8
 #EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173402.m3u8
 
-#EXTINF:-1 tvg-id="A3CI" tvg-name="A3CINE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE Y SERIES",A3CINE FHD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A3series HD(E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES",A3series HD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A3series FHD(D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES",A3series FHD(D)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173392.m3u8
+
 #EXTINF:-1 tvg-id="AMCARAM" tvg-name="AMC SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES",AMC SD DUAL A.
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173385.m3u8
 #EXTINF:-1 tvg-id="AMCARAM" tvg-name="AMC HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES",AMC HD(E)
@@ -453,3 +448,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202880.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RATUKEN TV SHOWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbBydwr0dIu8gSgWV-vRqM7F40uKp9hGft_I4yDJ4jfGjlDbt0Q3u5bAnjWrekpqfR0I&usqp=CAU" group-title="CINE PREMIUM",RATUKEN TV SHOWS
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202882.m3u8
+#EXTINF:-1 tvg-id="A3CI" tvg-name="A3CINE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s82808_ll_h3_aa.png" group-title="CINE Y SERIES",A3CINE FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3series FHD(D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES",A3series FHD(D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173392.m3u8
