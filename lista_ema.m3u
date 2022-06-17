@@ -130,6 +130,8 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173401.m3u8
 #EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173402.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES",DHE HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173417.m3u8
 
 #EXTINF:-1 tvg-id="AMCARAM" tvg-name="AMC SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES",AMC SD DUAL A.
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173385.m3u8
@@ -174,10 +176,8 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173413.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173411.m3u8
 #EXTINF:-1 tvg-id="DEPLPLA" tvg-name="DE PELICULA PLUS FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="CINE Y SERIES",DE PELICULA PLUS FHD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHE SD(E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES",DHE SD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES",DHE HD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173417.m3u8
+
+
 #EXTINF:-1 tvg-id="EUROPAM" tvg-name="Europa Europa HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s27741_ll_h3_aa.png" group-title="CINE Y SERIES",Europa Europa HD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173420.m3u8
 #EXTINF:-1 tvg-id="EUROPAM" tvg-name="Europa Europa HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s27741_ll_h3_aa.png" group-title="CINE Y SERIES",Europa Europa HD(E)
