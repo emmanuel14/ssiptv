@@ -68,8 +68,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169916.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/170212.m3u8
 #EXTINF:-1 tvg-id="ESPNAMC" tvg-name="ESPN EXTRA HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s65930_ll_h3_ad.png" group-title="DEPORTES LAT",ESPN EXTRA HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169917.m3u8
-#EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
 
 #EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS AR(D)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS AR(D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169947.m3u8
@@ -448,3 +446,5 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202882.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A3series FHD(D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES",A3series FHD(D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173392.m3u8
+#EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
