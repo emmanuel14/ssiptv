@@ -112,8 +112,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169939.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES LAT",SKY SPORTS LA LIGA
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
 
-#EXTINF:-1 tvg-id="DAEHD" tvg-name="A&E HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(D)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173378.m3u8
 #EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173380.m3u8
 #EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E SD DUAL A.
@@ -126,7 +124,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173401.m3u8
 #EXTINF:-1 tvg-id="CCANAM" tvg-name="Cinecanal FHD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES",Cinecanal FHD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173402.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES",DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/DHE_logo.svg.png" group-title="CINE Y SERIES",DHE HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173417.m3u8
 
 #EXTINF:-1 tvg-id="AMCARAM" tvg-name="AMC SD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES",AMC SD DUAL A.
