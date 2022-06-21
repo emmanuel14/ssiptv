@@ -5,7 +5,8 @@
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165664.m3u8
 #EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
-
+#EXTINF:-1 tvg-id="ESPNLHD" tvg-name="ESPN HD (ARG)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN HD (ARG)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
 
 #EXTINF:-1 tvg-id="TRESAT" tvg-name="ARG: El trece HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" group-title="ARGENTINA",ARG: El trece HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
@@ -47,11 +48,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165604.m3u8
 #EXTINF:-1 tvg-id="ENCUA" tvg-name="ARG: ENCUENTRO" tvg-logo="http://fanc.tmsimg.com/assets/s75767_h3_aa.png" group-title="ARGENTINA",ARG: ENCUENTRO
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165602.m3u8
 
-
-#EXTINF:-1 tvg-id="ESPNLHD" tvg-name="ESPN HD (ARG)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN HD (ARG)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
-#EXTINF:-1 tvg-id="ESPNLA1" tvg-name="ESPN  SUR HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN  SUR HD (E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169911.m3u8
 #EXTINF:-1 tvg-id="SESPNIH" tvg-name="ESPN NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN NORTE HD DUAL A.
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169912.m3u8
 #EXTINF:-1 tvg-id="ESPN2HA" tvg-name="ESPN 2 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17725_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 (ARG) HD (E)
