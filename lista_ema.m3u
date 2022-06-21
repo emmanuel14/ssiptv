@@ -48,8 +48,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165604.m3u8
 #EXTINF:-1 tvg-id="ENCUA" tvg-name="ARG: ENCUENTRO" tvg-logo="http://fanc.tmsimg.com/assets/s75767_h3_aa.png" group-title="ARGENTINA",ARG: ENCUENTRO
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165602.m3u8
 
-#EXTINF:-1 tvg-id="SESPNIH" tvg-name="ESPN NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN NORTE HD DUAL A.
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169912.m3u8
 #EXTINF:-1 tvg-id="ESPN2HA" tvg-name="ESPN 2 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17725_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 (ARG) HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169953.m3u8
 #EXTINF:-1 tvg-id="ESPN2M" tvg-name="ESPN 2 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s67765_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 NORTE HD DUAL A.
@@ -440,5 +438,8 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/202882.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A3series FHD(D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES",A3series FHD(D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173392.m3u8
+
 #EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
+#EXTINF:-1 tvg-id="SESPNIH" tvg-name="ESPN NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN NORTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169912.m3u8
