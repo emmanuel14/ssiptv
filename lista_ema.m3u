@@ -60,8 +60,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
 
 #EXTINF:-1 tvg-id="TYCHD" tvg-name="ARG: TYC SPORTS LOCAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS LOCAL HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165660.m3u8
-#EXTINF:-1 tvg-id="TYCHD" tvg-name="ARG: TYC SPORTS LOCAL HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS LOCAL HD (E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
 #EXTINF:-1 tvg-id="TYCINUH" tvg-name="ARG: TYC SPORTS INTERNACIONAL" tvg-logo="http://fanc.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS INTERNACIONAL
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165658.m3u8
 
@@ -404,5 +402,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169959.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169961.m3u8
 #EXTINF:-1 tvg-id="FSP3HD" tvg-name="FOX SPORTS 3 NORTE HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s79923_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 3 NORTE HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169962.m3u8
+#EXTINF:-1 tvg-id="TYCHD" tvg-name="ARG: TYC SPORTS LOCAL HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS LOCAL HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES LAT",SKY SPORTS LA LIGA
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
