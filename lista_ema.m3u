@@ -10,14 +10,10 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
 
 #EXTINF:-1 tvg-id="TRESAT" tvg-name="ARG: El trece HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s16044_ll_h3_aa.png" group-title="ARGENTINA",ARG: El trece HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165585.m3u8
-#EXTINF:-1 tvg-id="TREINTA" tvg-name="ARG: EL TRECE INTERNACIONAL (E)" tvg-logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" group-title="ARGENTINA",ARG: EL TRECE INTERNACIONAL (E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
 #EXTINF:-1 tvg-id="TELEFA" tvg-name="ARG: TELEFE" tvg-logo="http://fanc.tmsimg.com/assets/s100066_ll_h3_ab.png" group-title="ARGENTINA",ARG: TELEFE
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165581.m3u8
-
 #EXTINF:-1 tvg-id="CANL9HD" tvg-name="ARG: El Nueve FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16882_ll_h3_aa.png" group-title="ARGENTINA",ARG: El Nueve FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165580.m3u8
-
 #EXTINF:-1 tvg-id="AMETVHD" tvg-name="ARG: America TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16395_ll_h3_ac.png" group-title="ARGENTINA",ARG: America TV FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165577.m3u8
 
@@ -49,14 +45,8 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165602.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2HA" tvg-name="ESPN 2 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17725_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 (ARG) HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169953.m3u8
-#EXTINF:-1 tvg-id="ESPN2M" tvg-name="ESPN 2 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s67765_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 NORTE HD DUAL A.
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169914.m3u8
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 3 (ARG) HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169954.m3u8
-#EXTINF:-1 tvg-id="ESPN3HD" tvg-name="ESPN 3 SUR HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73834_ll_h3_ab.png" group-title="DEPORTES LAT",ESPN 3 SUR HD (E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169915.m3u8
-#EXTINF:-1 tvg-id="ESPN3NH" tvg-name="ESPN 3 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 3 NORTE HD DUAL A.
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169916.m3u8
 #EXTINF:-1 tvg-id="FSALSPH" tvg-name="ESPN 4 HD (E)" tvg-logo="https://tv.faster.net.br/logos/ESPN4.png" group-title="DEPORTES LAT",ESPN 4 HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/170212.m3u8
 
@@ -72,10 +62,6 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
 #EXTINF:-1 tvg-id="TYCINUH" tvg-name="ARG: TYC SPORTS INTERNACIONAL" tvg-logo="http://fanc.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS INTERNACIONAL
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165658.m3u8
 
-#EXTINF:-1 tvg-id="FSALPHD" tvg-name="FOX SPORTS NORTE HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s61704_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS NORTE HD (E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169920.m3u8
-#EXTINF:-1 tvg-id="FXDEPC" tvg-name="FOX DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s15377_ll_h3_aa.png" group-title="DEPORTES LAT",FOX DEPORTES
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169919.m3u8
 #EXTINF:-1 tvg-id="FSALA" tvg-name="FOX SPORTS (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS (ARG) HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169955.m3u8
 #EXTINF:-1 tvg-id="FSALSA" tvg-name="FOX SPORTS SUR HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS SUR HD (E)
@@ -410,9 +396,18 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173397.m3u8
 #EXTINF:-1 tvg-id="CINL" tvg-name="Cine Latino MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES",Cine Latino MX(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173399.m3u8
 
+#EXTINF:-1 tvg-id="TREINTA" tvg-name="ARG: EL TRECE INTERNACIONAL (E)" tvg-logo="http://fanc.tmsimg.com/assets/s64792_ll_h3_aa.png" group-title="ARGENTINA",ARG: EL TRECE INTERNACIONAL (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165586.m3u8
+
 #EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s71914_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN DEPORTES
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169910.m3u8
 #EXTINF:-1 tvg-id="SESPNIH" tvg-name="ESPN NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN NORTE HD DUAL A.
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169912.m3u8
+#EXTINF:-1 tvg-id="ESPN2M" tvg-name="ESPN 2 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s67765_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 2 NORTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169914.m3u8
+#EXTINF:-1 tvg-id="ESPN3NH" tvg-name="ESPN 3 NORTE HD DUAL A." tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN 3 NORTE HD DUAL A.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169916.m3u8
+#EXTINF:-1 tvg-id="ESPN3HD" tvg-name="ESPN 3 SUR HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73834_ll_h3_ab.png" group-title="DEPORTES LAT",ESPN 3 SUR HD (E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169915.m3u8
 #EXTINF:-1 tvg-id="ESPNAMC" tvg-name="ESPN EXTRA HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s65930_ll_h3_ad.png" group-title="DEPORTES LAT",ESPN EXTRA HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169917.m3u8
