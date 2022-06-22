@@ -82,10 +82,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169961.m3u8
 #EXTINF:-1 tvg-id="FSP3HD" tvg-name="FOX SPORTS 3 NORTE HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s79923_ll_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 3 NORTE HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169962.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LAT." tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="DEPORTES LAT",SKY SPORTS LAT.
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES LAT",SKY SPORTS LA LIGA
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
+
 
 #EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173380.m3u8
@@ -409,3 +406,5 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169916.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169915.m3u8
 #EXTINF:-1 tvg-id="ESPNAMC" tvg-name="ESPN EXTRA HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s65930_ll_h3_ad.png" group-title="DEPORTES LAT",ESPN EXTRA HD (E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES LAT",SKY SPORTS LA LIGA
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
