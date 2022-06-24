@@ -36,13 +36,10 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165598.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165599.m3u8
 #EXTINF:-1 tvg-id="AMR24HD" tvg-name="ARG: A24 HD" tvg-logo="http://fanc.tmsimg.com/assets/s16272_ll_h3_ab.png" group-title="ARGENTINA",ARG: A24 HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165593.m3u8
-
 #EXTINF:-1 tvg-id="CMAGHD" tvg-name="ARG: Magazine HD" tvg-logo="http://fanc.tmsimg.com/assets/s16878_ll_h3_ab.png" group-title="ARGENTINA",ARG: Magazine HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165628.m3u8
 #EXTINF:-1 tvg-id="NETTVA" tvg-name="ARG: NET TV" tvg-logo="http://fanc.tmsimg.com/assets/s109331_ll_h3_aa.png" group-title="ARGENTINA",ARG: NET TV
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165600.m3u8
-#EXTINF:-1 tvg-id="CINEAR" tvg-name="ARG: CINE AR" tvg-logo="http://fanc.tmsimg.com/assets/s81974_ll_h3_ac.png" group-title="ARGENTINA",ARG: CINE AR
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165604.m3u8
 #EXTINF:-1 tvg-id="ENCUA" tvg-name="ARG: ENCUENTRO" tvg-logo="http://fanc.tmsimg.com/assets/s75767_h3_aa.png" group-title="ARGENTINA",ARG: ENCUENTRO
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165602.m3u8
 
@@ -69,6 +66,13 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169955.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169957.m3u8
 #EXTINF:-1 tvg-id="FOXS3DT" tvg-name="FOX SPORTS 3 (ARG) HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s79923_h3_aa.png" group-title="DEPORTES LAT",FOX SPORTS 3 (ARG) HD (D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169960.m3u8
+
+#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES",HBO SD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173440.m3u8
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO  HD(E)" tvg-logo="https://image.xmltv.guide/icon/1004005.png" group-title="CINE Y SERIES",HBO  HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173439.m3u8
+#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES",HBO FHD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173438.m3u8
 
 #EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE Y SERIES",A&E HD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173380.m3u8
@@ -120,12 +124,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173431.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173434.m3u8
 #EXTINF:-1 tvg-id="GPRD2AM" tvg-name="Golden Premier 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE Y SERIES",Golden Premier 2 HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173433.m3u8
-#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES",HBO SD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173440.m3u8
-#EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO  HD(E)" tvg-logo="https://image.xmltv.guide/icon/1004005.png" group-title="CINE Y SERIES",HBO  HD(E)
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173439.m3u8
-#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES",HBO FHD
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173438.m3u8
+
 #EXTINF:-1 tvg-id="HBOPHDA" tvg-name="HBO 2 SD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES",HBO 2 SD(E)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173441.m3u8
 #EXTINF:-1 tvg-id="HBO2PNH" tvg-name="HBO 2 HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES",HBO 2 HD MX(E)
@@ -400,3 +399,5 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169962.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES LAT",SKY SPORTS LA LIGA
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169940.m3u8
+#EXTINF:-1 tvg-id="CINEAR" tvg-name="ARG: CINE AR" tvg-logo="http://fanc.tmsimg.com/assets/s81974_ll_h3_ac.png" group-title="ARGENTINA",ARG: CINE AR
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165604.m3u8
