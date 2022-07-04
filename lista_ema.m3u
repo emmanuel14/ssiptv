@@ -8,8 +8,13 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165591.m3u8
 #EXTINF:-1 tvg-id="CMAGHD" tvg-name="ARG: Magazine HD" tvg-logo="http://fanc.tmsimg.com/assets/s16878_ll_h3_ab.png" group-title="ARGENTINA",ARG: Magazine HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165628.m3u8
 
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="ARG: TNT SPORTS FHD.." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD..
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165665.m3u8
 #EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165664.m3u8
+
 #EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/emmanuel14/ssiptv/master/ESPN_Premium_logo.svg.png" group-title="DEPORTES LAT",ARG: ESPN PREMIUM FHD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183615.m3u8
 #EXTINF:-1 tvg-id="ESPNLHD" tvg-name="ESPN HD (ARG)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES LAT",ESPN HD (ARG)
